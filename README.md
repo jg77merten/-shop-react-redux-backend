@@ -1,7 +1,7 @@
 ## Task-3 
-API /products: https://ny3ecacylc.execute-api.us-east-1.amazonaws.com/products
-API /products/{id}: https://ny3ecacylc.execute-api.us-east-1.amazonaws.com/products/af7c1fe6-d669-414e-b066-e9733f0de7a8
-FE integration: https://d2ep4hq0qow7fi.cloudfront.net/
+* API /products: https://ny3ecacylc.execute-api.us-east-1.amazonaws.com/products
+* API /products/{id}: https://ny3ecacylc.execute-api.us-east-1.amazonaws.com/products/af7c1fe6-d669-414e-b066-e9733f0de7a8
+* FE integration: https://d2ep4hq0qow7fi.cloudfront.net/
 
 Additional:
 
