@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"id\": \"af7c1fe6-d669-414e-b066-e9733f0de7a8\",\"title\": \"Potato\",\"country\": \"Belarus\",\"price\": 20.90,\"packaging\": 25,\"image\": \"https://i.c97.org/p/articles/ai-160663-aux-head-kartoshka_360.jpg\"},{\"id\": \"08c71152-c552-42e7-b094-f510ff44e9cb\",\"title\": \"Banana\",\"country\": \"Ecuador\",\"price\": 10.90,\"packaging\": 15,\"image\": \"https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2021/07/bananas.png\"},{\"id\": \"c558a80a-f319-4c10-95d4-4282ef745b4b\",\"title\": \"Coffee\",\"country\": \"Ethiopia\",\"price\": 12.90,\"packaging\": 15,\"image\": \"https://nowboarding.changiairport.com/go-global/wake-up-to-the-land-that-discovered-coffee-Ethiopia.img.png/1502437005737.jpg\"},{\"id\": \"1ad1fccc-d279-46a0-8980-1d91afd6ba67\",\"title\": \"Pineapple\",\"country\": \"Brazil\",\"price\": 11.90,\"packaging\": 5,\"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/1024px-Pineapple_and_cross_section.jpg\"},{\"id\": \"1ad1a80a-46a0-f319-c552-f510ff44e9cb\",\"title\": \"Apple\",\"country\": \"Poland\",\"price\": 11.90,\"packaging\": 5,\"image\": \"https://www.zajadam.pl/wp-content/uploads/2014/08/apples-379871_640.jpg\"}"
+}
